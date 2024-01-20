@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "id": "b190",
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-01-19T04:02:16.284Z",
+      "notes": "Never been",
+      "position": {
+        "lat": "51.49335472541077",
+        "lng": "-0.1179013853665545"
+      }
+    },
+    {
+      "id": "95df",
+      "cityName": "Wakefield",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-01-20T03:58:22.324Z",
+      "notes": "",
+      "position": {
+        "lat": "53.657661020298",
+        "lng": "-1.5141725491751348"
+      }
+    },
+    {
+      "id": "cd30",
+      "cityName": "Dundee",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-01-20T03:58:25.938Z",
+      "notes": "Reminds me of the dundies",
+      "position": {
+        "lat": "56.46400789285716",
+        "lng": "-2.97168046205782"
+      }
+    },
+    {
+      "id": "3565",
+      "cityName": "Lerwick",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-01-20T03:58:55.841Z",
+      "notes": "",
+      "position": {
+        "lat": "60.22921174684709",
+        "lng": "-1.566342816135007"
+      }
+    },
+    {
+      "id": "5fe2",
+      "cityName": "Dikson",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-01-20T03:59:36.209Z",
+      "notes": "How can anyone even live here",
+      "position": {
+        "lat": "80.64703474739618",
+        "lng": "95.34037937222399"
+      }
+    }
+  ]
+}
